@@ -1,0 +1,272 @@
+[
+  {
+    "description": "Défaut de concentricité",
+    "type_anomalie": "Défaut géométrique",
+    "site": "Site de production 1",
+    "date": "2023-11-23",
+    "produit": "Produit 1",
+    "serial_number": "1-9124",
+    "plan_action": "Analyse avec expert filetage"
+  },
+  {
+    "description": "Brillance irrégulière",
+    "type_anomalie": "Défaut de surface",
+    "site": "Site de production 1",
+    "date": "2025-01-01",
+    "produit": "Produit 3",
+    "serial_number": "3-4913",
+    "plan_action": "Inspection visuelle renforcée"
+  },
+  {
+    "description": "Alignement décalé des perçages",
+    "type_anomalie": "Défaut géométrique",
+    "site": "Site de production 2",
+    "date": "2024-10-14",
+    "produit": "Produit 2",
+    "serial_number": "2-8527",
+    "plan_action": "Reprise mécanique si tolérable"
+  },
+  {
+    "description": "Angle de perçage incorrect",
+    "type_anomalie": "Défaut dimensionnel",
+    "site": "Site de production 1",
+    "date": "2023-06-03",
+    "produit": "Produit 4",
+    "serial_number": "4-5030",
+    "plan_action": "Simulation éléments finis"
+  },
+  {
+    "description": "Variation de diamètre hors tolérance",
+    "type_anomalie": "Défaut dimensionnel",
+    "site": "Site de production 3",
+    "date": "2024-11-27",
+    "produit": "Produit 4",
+    "serial_number": "4-7801",
+    "plan_action": "Réglage machine"
+  },
+  {
+    "description": "Piqûres visibles sur surface interne",
+    "type_anomalie": "Défaut de surface",
+    "site": "Site de production 1",
+    "date": "2022-11-11",
+    "produit": "Produit 2",
+    "serial_number": "2-8531",
+    "plan_action": "Consultation fournisseur revêtement"
+  },
+  {
+    "description": "Bavure sur les arêtes vives",
+    "type_anomalie": "Défaut de surface",
+    "site": "Site de production 3",
+    "date": "2023-03-14",
+    "produit": "Produit 4",
+    "serial_number": "4-5854",
+    "plan_action": "Polissage localisé"
+  },
+  {
+    "description": "Alignement décalé des perçages",
+    "type_anomalie": "Défaut géométrique",
+    "site": "Site de production 2",
+    "date": "2023-03-04",
+    "produit": "Produit 4",
+    "serial_number": "4-5055",
+    "plan_action": "Analyse avec expert filetage"
+  },
+  {
+    "description": "Déformation de la zone filetée",
+    "type_anomalie": "Défaut géométrique",
+    "site": "Site de production 1",
+    "date": "2025-01-30",
+    "produit": "Produit 2",
+    "serial_number": "2-5615",
+    "plan_action": "Recalibrage du process"
+  },
+  {
+    "description": "Trou non débouchant",
+    "type_anomalie": "Défaut d’assemblage",
+    "site": "Site de production 3",
+    "date": "2025-02-17",
+    "produit": "Produit 4",
+    "serial_number": "4-2447",
+    "plan_action": "Contrôle visuel + démontage"
+  },
+  {
+    "description": "Manque de rivet",
+    "type_anomalie": "Défaut d’assemblage",
+    "site": "Site de production 2",
+    "date": "2024-01-10",
+    "produit": "Produit 3",
+    "serial_number": "3-5816",
+    "plan_action": "Essai d’endurance"
+  },
+  {
+    "description": "Présence de copeaux",
+    "type_anomalie": "Autre",
+    "site": "Site de production 3",
+    "date": "2024-01-26",
+    "produit": "Produit 4",
+    "serial_number": "4-2432",
+    "plan_action": "Contrôle manuel supplémentaire"
+  },
+  {
+    "description": "Problème de conditionnement",
+    "type_anomalie": "Autre",
+    "site": "Site de production 1",
+    "date": "2024-09-12",
+    "produit": "Produit 1",
+    "serial_number": "1-3515",
+    "plan_action": "Mise en quarantaine du lot"
+  },
+  {
+    "description": "Présence de copeaux",
+    "type_anomalie": "Autre",
+    "site": "Site de production 1",
+    "date": "2024-01-11",
+    "produit": "Produit 4",
+    "serial_number": "4-8356",
+    "plan_action": "Revue des procédures internes"
+  },
+  {
+    "description": "Fissure longitudinale sur flanc",
+    "type_anomalie": "Défaut géométrique",
+    "site": "Site de production 2",
+    "date": "2023-09-19",
+    "produit": "Produit 2",
+    "serial_number": "2-9708",
+    "plan_action": "Recalibrage du process"
+  },
+  {
+    "description": "Rayure sur la surface supérieure",
+    "type_anomalie": "Défaut de surface",
+    "site": "Site de production 3",
+    "date": "2024-08-10",
+    "produit": "Produit 1",
+    "serial_number": "1-5339",
+    "plan_action": "Consultation fournisseur revêtement"
+  },
+  {
+    "description": "Rayure sur la surface supérieure",
+    "type_anomalie": "Défaut de surface",
+    "site": "Site de production 1",
+    "date": "2022-11-12",
+    "produit": "Produit 4",
+    "serial_number": "4-7721",
+    "plan_action": "Inspection visuelle renforcée"
+  },
+  {
+    "description": "Détérioration en stockage",
+    "type_anomalie": "Autre",
+    "site": "Site de production 1",
+    "date": "2023-08-30",
+    "produit": "Produit 3",
+    "serial_number": "3-4334",
+    "plan_action": "Contrôle manuel supplémentaire"
+  },
+  {
+    "description": "Rayure sur la surface supérieure",
+    "type_anomalie": "Défaut de surface",
+    "site": "Site de production 2",
+    "date": "2022-10-04",
+    "produit": "Produit 1",
+    "serial_number": "1-5879",
+    "plan_action": "Expertise métallurgique"
+  },
+  {
+    "description": "Angle de perçage incorrect",
+    "type_anomalie": "Défaut dimensionnel",
+    "site": "Site de production 1",
+    "date": "2024-07-12",
+    "produit": "Produit 3",
+    "serial_number": "3-4859",
+    "plan_action": "Retouche si possible"
+  },
+  {
+    "description": "Écaillage du revêtement",
+    "type_anomalie": "Défaut de surface",
+    "site": "Site de production 2",
+    "date": "2022-09-23",
+    "produit": "Produit 2",
+    "serial_number": "2-6186",
+    "plan_action": "Expertise métallurgique"
+  },
+  {
+    "description": "Bavure sur les arêtes vives",
+    "type_anomalie": "Défaut de surface",
+    "site": "Site de production 2",
+    "date": "2024-05-28",
+    "produit": "Produit 3",
+    "serial_number": "3-3131",
+    "plan_action": "Expertise métallurgique"
+  },
+  {
+    "description": "Défaut de concentricité",
+    "type_anomalie": "Défaut géométrique",
+    "site": "Site de production 1",
+    "date": "2022-11-17",
+    "produit": "Produit 4",
+    "serial_number": "4-4516",
+    "plan_action": "Recalibrage du process"
+  },
+  {
+    "description": "Brillance irrégulière",
+    "type_anomalie": "Défaut de surface",
+    "site": "Site de production 2",
+    "date": "2023-07-12",
+    "produit": "Produit 3",
+    "serial_number": "3-1558",
+    "plan_action": "Inspection visuelle renforcée"
+  },
+  {
+    "description": "Variation de diamètre hors tolérance",
+    "type_anomalie": "Défaut dimensionnel",
+    "site": "Site de production 3",
+    "date": "2022-09-28",
+    "produit": "Produit 3",
+    "serial_number": "3-5401",
+    "plan_action": "Retouche si possible"
+  },
+  {
+    "description": "Jeu axial non conforme",
+    "type_anomalie": "Défaut dimensionnel",
+    "site": "Site de production 1",
+    "date": "2024-01-13",
+    "produit": "Produit 1",
+    "serial_number": "1-9302",
+    "plan_action": "Retouche si possible"
+  },
+  {
+    "description": "Défaut de marquage laser",
+    "type_anomalie": "Autre",
+    "site": "Site de production 1",
+    "date": "2025-03-01",
+    "produit": "Produit 4",
+    "serial_number": "4-4873",
+    "plan_action": "Revue des procédures internes"
+  },
+  {
+    "description": "Variation de diamètre hors tolérance",
+    "type_anomalie": "Défaut dimensionnel",
+    "site": "Site de production 1",
+    "date": "2024-01-28",
+    "produit": "Produit 4",
+    "serial_number": "4-3715",
+    "plan_action": "Réglage machine"
+  },
+  {
+    "description": "Planéité hors tolérance",
+    "type_anomalie": "Défaut dimensionnel",
+    "site": "Site de production 3",
+    "date": "2024-08-28",
+    "produit": "Produit 2",
+    "serial_number": "2-1464",
+    "plan_action": "Simulation éléments finis"
+  },
+  {
+    "description": "Détérioration en stockage",
+    "type_anomalie": "Autre",
+    "site": "Site de production 2",
+    "date": "2022-11-04",
+    "produit": "Produit 3",
+    "serial_number": "3-9027",
+    "plan_action": "Revue des procédures internes"
+  }
+]
